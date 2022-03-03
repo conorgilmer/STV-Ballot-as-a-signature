@@ -6,9 +6,12 @@ PR-STV Irregular voting patterns which could be used as a ballot as a signature 
 - plot regular voting pattern (between similar ideologies)
 - plot irregular voting patterns
 - analyse data from e-voting trial from 2002
+  - number of preferences cast
   - mode
   - median
---mean
+  - mean
+  - generate histogram
+  - calculate duplicates (remove duplicates)
 - generate possible combinations
 - classify actual votes as 'regular' and generated as 'irregular'
 
