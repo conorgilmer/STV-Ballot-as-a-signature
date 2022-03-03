@@ -2,6 +2,7 @@
 PR-STV Irregular voting patterns which could be used as a ballot as a signature attack
 ## Permutations (without repetition)
 $$nPr = P(n,r) = n!/(n-r)!$$
+$$P(n,r) = \frac{n!}/{(n-r)}!$$
 ## Tasks
 - plot irish political parites on the political compass (politicalcompass.org)
 - **PlotRegularVoteTransfers.ipynb** - plot regular voting pattern (between similar ideologies)
