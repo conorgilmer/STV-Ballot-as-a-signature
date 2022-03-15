@@ -16,7 +16,8 @@ nPr = P(n,r) = n!/(n-r)!
 - **RandGen-nPr.ipynb** 
   - generate random permutations nPr
   - generate random permutations for range r values
-- classify actual votes as 'regular' and generated as 'irregular'
+- calculate eculidean distance travelled by transfers for each vote - classify high values as irregular
+- classify actual votes as 'regular' and generated as votes with high  'irregular'
 - split dataset into test and train
 - test machine learning algorithms on dataset measure performance
 
