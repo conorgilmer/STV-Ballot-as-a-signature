@@ -11,11 +11,14 @@ nPr = P(n,r) = n!/(n-r)!
   - mode
   - median
   - mean
-  - generate histogram
+  - generate histograms
   - calculate duplicates (remove duplicates)
-- **RandGen-nPr.ipynb** - generate random possible permutations nPr
+- **RandGen-nPr.ipynb** 
+  - generate random permutations nPr
+  - generate random permutations for range r values
 - classify actual votes as 'regular' and generated as 'irregular'
-- test machine learning algorithms on dataset measure performance 
+- split dataset into test and train
+- test machine learning algorithms on dataset measure performance
 
 ## Data Used from e-voting trial from 2002
 - Meath2002.csv
