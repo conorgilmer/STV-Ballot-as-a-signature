@@ -15,6 +15,7 @@ nPr = P(n,r) = n!/(n-r)!
   - calculate duplicates (remove duplicates)
 - **RandGen-nPr.ipynb** 
   - generate random permutations nPr
+- **RandGen-nPr-range-of-r.ipynb** 
   - generate random permutations for range r values
 - calculate eculidean distance travelled by transfers for each vote - classify high values as irregular
 - classify actual votes as 'regular' and generated as votes with high  'irregular'
