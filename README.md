@@ -13,6 +13,8 @@ nPr = P(n,r) = n!/(n-r)!
   - mean
   - generate histograms
   - calculate duplicates (remove duplicates)
+  - calculate number of unique votes for each vote sequence
+  - caclulate possible permutations for each pref nonPr and % used
 - **RandGen-nPr.ipynb** 
   - generate random permutations nPr
 - **RandGen-nPr-range-of-r.ipynb** 
