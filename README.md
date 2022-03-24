@@ -28,3 +28,10 @@ nPr = P(n,r) = n!/(n-r)!
 - Meath2002.csv
 - DublinNorth2002.csv
 - DublinWest2002.csv
+
+## Technology and software used
+- python 3.8 - [python.org](https://python.org)
+- Anaconda 1.10 with Juypter Notebook 6.1.4 [Anaconda Individual Edition](https://www.anaconda.com/products/individual)
+- macOS Sierra 10.12.6
+- Vim 7.4 (MacVim) [www.vim.org](https://vim.org)
+- Thonny 3.3.1 (with Python 3.7.9) [www.thonny.org](https://thonny.org)
