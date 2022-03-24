@@ -3,7 +3,7 @@ PR-STV Irregular voting patterns which could be used as a ballot as a signature 
 ## Permutations (without repetition)
 nPr = P(n,r) = n!/(n-r)!
 ## Tasks
-- plot irish political parites on the political compass (politicalcompass.org)
+- plot irish political parites on the Political Compass ([politicalcompass.org](https://politicalcompass.org/ireland2020))
 - **PlotRegularVoteTransfers.ipynb** - plot regular voting pattern (between similar ideologies)
 - **PlotIrregularVoteTransfers.ipynb** - plot irregular voting pattern
 - **[VoteDataAnalysis.ipynb](/python/VoteDataAnalysis.ipynb)** - analyse data from e-voting trial from 2002
