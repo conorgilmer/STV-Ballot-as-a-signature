@@ -6,7 +6,7 @@ nPr = P(n,r) = n!/(n-r)!
 - plot irish political parites on the political compass (politicalcompass.org)
 - **PlotRegularVoteTransfers.ipynb** - plot regular voting pattern (between similar ideologies)
 - **PlotIrregularVoteTransfers.ipynb** - plot irregular voting pattern
-- **VoteDataAnalysis.ipynb** - analyse data from e-voting trial from 2002
+- **[VoteDataAnalysis.ipynb](/python/VoteDataAnalysis.ipynb)** - analyse data from e-voting trial from 2002
   - number of preferences cast
   - mode
   - median
