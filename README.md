@@ -29,6 +29,10 @@ nPr = P(n,r) = n!/(n-r)!
 - DublinNorth2002.csv
 - DublinWest2002.csv
 
+## Data from Political Compass
+- pc.csv
+![Irish parties on the political compass](/images/PCplot.png)
+
 ## Technology and software used
 - python 3.8 - [python.org](https://python.org)
 - Anaconda 1.10 with Juypter Notebook 6.1.4 [Anaconda Individual Edition](https://www.anaconda.com/products/individual)
