@@ -4,8 +4,8 @@ PR-STV Irregular voting patterns which could be used as a ballot as a signature 
 nPr = P(n,r) = n!/(n-r)!
 ## Tasks
 - plot irish political parites on the Political Compass ([politicalcompass.org](https://politicalcompass.org/ireland2020))
-- **PlotRegularVoteTransfers.ipynb** - plot regular voting pattern (between similar ideologies)
-- **PlotIrregularVoteTransfers.ipynb** - plot irregular voting pattern
+- **[PlotRegularVoteTransfers.ipynb](/python/PlotRegularVoteTransfers.ipynb)** - plot regular voting pattern (between similar ideologies)
+- **[PlotIrregularVoteTransfers.ipynb](/python/PlotIrregularVoteTransfers.ipynb)** - plot irregular voting pattern
 - **[VoteDataAnalysis.ipynb](/python/VoteDataAnalysis.ipynb)** - analyse data from e-voting trial from 2002
   - number of preferences cast
   - mode
@@ -15,9 +15,9 @@ nPr = P(n,r) = n!/(n-r)!
   - calculate duplicates (remove duplicates)
   - calculate number of unique votes for each vote sequence
   - caclulate possible permutations for each pref nonPr and % used
-- **RandGen-nPr.ipynb** 
+- **[RandGen-nPr.ipynb](/python/RandGen-nPr.ipynb)** 
   - generate random permutations nPr
-- **RandGen-nPr-range-of-r.ipynb** 
+- **[RandGen-nPr-range-of-r.ipynb](/python/RandGen-nPr-range-of-r.ipynb)** 
   - generate random permutations for range r values
 - calculate eculidean distance travelled by transfers for each vote - classify high values as irregular
 - classify actual votes as 'regular' and generated as votes with high  'irregular'
@@ -25,13 +25,19 @@ nPr = P(n,r) = n!/(n-r)!
 - test machine learning algorithms on dataset measure performance
 
 ## Data Used from e-voting trial from 2002
-- Meath2002.csv
-- DublinNorth2002.csv
-- DublinWest2002.csv
+- [Meath2002.csv](/data/Meath2002.csv)
+- [DublinNorth2002.csv](/data/DublinNorth2002.csv)
+- [DublinWest2002.csv](/data/DublinWest2002.csv)
 
-## Data from Political Compass
-- pc.csv
+## Data from Political Compass [pc.csv](/data/pc.csv)
+Data from 2002, when eVoting trial was conducted
 ![Irish parties on the political compass](/images/PCplot.png)
+
+### Plot of transfers of a regular vote
+![Plot of transfers of a regular vote](/images/RegularVoteTransferplot.png)
+
+### Plot of transfers of an irregular vote
+![Plot of transfers of a irregular vote](/images/IrregularVoteTransfersplot.png)
 
 ## Technology and software used
 - python 3.8 - [python.org](https://python.org)
@@ -39,3 +45,4 @@ nPr = P(n,r) = n!/(n-r)!
 - macOS Sierra 10.12.6
 - Vim 7.4 (MacVim) [www.vim.org](https://vim.org)
 - Thonny 3.3.1 (with Python 3.7.9) [www.thonny.org](https://thonny.org)
+- Atom Editor - [atom.io](https://atom.io/)
