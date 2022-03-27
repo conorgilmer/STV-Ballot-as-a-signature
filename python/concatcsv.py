@@ -13,7 +13,12 @@ merged_csv='../data/'+constituency+'merged.csv'
 # merging two csv files
 df = pd.concat(
     map(pd.read_csv, [reg_csv, irreg_csv]), ignore_index=True)
-print(df)
+
+#print(df)
+
+# drop column ( old indexes column )
+df = df.drop(df.columns[0], axis = 1)
+
 
 # write dataframe of 2 csv files to csv file
 df.to_csv(merged_csv)
