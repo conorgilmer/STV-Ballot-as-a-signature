@@ -17,6 +17,8 @@ nPr = P(n,r) = n!/(n-r)!
   - caclulate possible permutations for each pref nonPr and % used
 - **[RandGen-nPr.ipynb](/python/RandGen-nPr.ipynb)** 
   - generate random permutations nPr
+- **[RandGen-nPr-O.ipynb](/python/RandGen-nPr-O.ipynb)** 
+  - generate O, random permutations nPr (n=candidates, r=prefeences, o=number of permutations to generate
 - **[RandGen-nPr-range-of-r.ipynb](/python/RandGen-nPr-range-of-r.ipynb)** 
   - generate random permutations for range r values
 - calculate eculidean distance travelled by transfers for each vote - classify high values as irregular
