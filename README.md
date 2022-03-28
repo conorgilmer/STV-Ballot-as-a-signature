@@ -18,13 +18,15 @@ nPr = P(n,r) = n!/(n-r)!
 - **[RandGen-nPr.ipynb](/python/RandGen-nPr.ipynb)** 
   - generate random permutations nPr
 - **[RandGen-nPr-O.ipynb](/python/RandGen-nPr-O.ipynb)** 
-  - generate O, random permutations nPr (n=candidates, r=prefeences, o=number of permutations to generate
+  - generate O, random permutations nPr (n=candidates, r=preferences, O=number of permutations to generate)
 - **[RandGen-nPr-range-of-r.ipynb](/python/RandGen-nPr-range-of-r.ipynb)** 
   - generate random permutations for range r values
 - calculate eculidean distance travelled by transfers for each vote - classify high values as irregular
 - classify actual votes as 'regular' and generated as votes with high  'irregular'
 - split dataset into test and train
 - test machine learning algorithms on dataset measure performance
+- tune model
+- evaluate performance
 
 ## Data Used from e-voting trial from 2002
 - [Meath2002.csv](/data/Meath2002.csv)
