@@ -9,7 +9,7 @@ Erin    |  lamb madras  |  HOT       |  $5
 
 ### Statistics Table Meath 2002
 
-No.  | Pref | Votes | Percentage |     nPr     | Unique Votes | Percentage Used | Euc Mean | Euc Median | Euc Min | Euc Max
+No. | Pref | Votes | Percentage | nPr | Unique Votes | Percentage Used | Euc Mean | Euc Median | Euc Min | Euc Max
 ---------- | ---- | ----- | ---------- | ----------- | ------------ | --------------- | -------- | ---------- | ------- | -------:
      0     |  1.0 |  3184 |     5.0    |      14     |      14      |      100.0      |    0.0   |     0.0    |   0.0   |   0.0  
      1     |  2.0 |  4250 |     6.6    |     182     |      165     |      90.66      |   3.24   |    3.47    |   0.0   |   8.14 
