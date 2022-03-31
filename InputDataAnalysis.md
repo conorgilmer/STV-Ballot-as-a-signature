@@ -1,12 +1,6 @@
 ### Histogram Meath 2002
 ![Histogram Meath 2002](/images/Meath2002hist.png)
 
-Name  |  Lunch order  |  Spicy       |  Owes
--------  |  ----------------  |  ----------  |  ---------:
-Joan   |  saag paneer  |  medium  |  $11
-Sally   |  vindaloo         |  mild        |  $14
-Erin    |  lamb madras  |  HOT       |  $5
-
 ### Statistics Table Meath 2002
 
 No. | Pref | Votes | Percentage | nPr | Unique Votes | Percentage Used | Euc Mean | Euc Median | Euc Min | Euc Max
