@@ -3,6 +3,7 @@ PR-STV Irregular voting patterns which could be used as a ballot as a signature 
 ## Permutations (without repetition)
 nPr = P(n,r) = n!/(n-r)!
 ## Tasks
+### Data Gathering and Generation
 - plot irish political parites on the Political Compass ([politicalcompass.org](https://politicalcompass.org/ireland2020))
 - **[PlotRegularVoteTransfers.ipynb](/python/PlotRegularVoteTransfers.ipynb)** - plot regular voting pattern (between similar ideologies)
 - **[PlotIrregularVoteTransfers.ipynb](/python/PlotIrregularVoteTransfers.ipynb)** - plot irregular voting pattern
@@ -25,11 +26,11 @@ nPr = P(n,r) = n!/(n-r)!
   - classify as "irregular" write to irregular csv file
 - **[RandGen-nPr-range-of-r.ipynb](/python/RandGen-nPr-range-of-r.ipynb)** 
   - generate random permutations for range r values
-
 - **[concatBatch.py](/python/concatBatch.py)**
   -concatenate(merge) regular and irregular csv files
   -remove duplicates keeping sequence classified as regular
   -writes to merged csv file
+###Machine Learning
 - split dataset into test and train
 - test machine learning algorithms on dataset measure performance
 - tune model
