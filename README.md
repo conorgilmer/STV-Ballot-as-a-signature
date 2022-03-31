@@ -37,6 +37,17 @@ nPr = P(n,r) = n!/(n-r)!
 Data from 2002, when eVoting trial was conducted
 ![Irish parties on the political compass](/images/PCplot.png)
 
+| Party | X    | Y     |
+|-------|------|-------|
+| SP    | -7   | -2.5  |
+| SF    | -4.5 | 1     |
+| GP    | -1   | -2    |
+| NP    | 0    | 0     |
+| LB    | 1.5  | -0.5  |
+| FF    | 2.5  | 2.4   |
+| FG    | 3.5  | 2.5   |
+| PD    | 4    | 3     |
+
 ### Plot of transfers of a regular vote
 ![Plot of transfers of a regular vote](/images/RegularVoteTransferplot.png)
 
