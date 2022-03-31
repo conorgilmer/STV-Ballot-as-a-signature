@@ -15,14 +15,21 @@ nPr = P(n,r) = n!/(n-r)!
   - calculate duplicates (remove duplicates)
   - calculate number of unique votes for each vote sequence
   - caclulate possible permutations for each pref nonPr and % used
+  - calculate "votes" euclidean distance and average euclidean distance for each transfer
+  - classify as "regular" write to regular csv file
 - **[RandGen-nPr.ipynb](/python/RandGen-nPr.ipynb)** 
   - generate random permutations nPr
 - **[RandGen-nPr-O.ipynb](/python/RandGen-nPr-O.ipynb)** 
   - generate O, random permutations nPr (n=candidates, r=preferences, O=number of permutations to generate)
+  - calculate "votes" euclidean distance and average euclidean distance for each transfer
+  - classify as "irregular" write to irregular csv file
 - **[RandGen-nPr-range-of-r.ipynb](/python/RandGen-nPr-range-of-r.ipynb)** 
   - generate random permutations for range r values
-- calculate eculidean distance travelled by transfers for each vote - classify high values as irregular
-- classify actual votes as 'regular' and generated as votes with high  'irregular'
+
+- **[concatBatch.py](/python/concatBatch.py)**
+  -concatenate(merge) regular and irregular csv files
+  -remove duplicates keeping sequence classified as regular
+  -writes to merged csv file
 - split dataset into test and train
 - test machine learning algorithms on dataset measure performance
 - tune model
