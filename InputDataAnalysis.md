@@ -2,11 +2,11 @@
 Histogram Meath 2002 |  Pie Chart Transfers
 :-------------------------:|:-------------------------:
 ![Histogram Meath 2002](/images/Meath2002hist.png) | ![Pie Meath 2002](/images/Meath2002_pref_cast_pie.png)
-![Cast v Possible Meath 2002](/images/Meath2002_pref_percent_bar.png)
+![Cast v Possible Meath 2002](/images/Meath2002_pref_percent_bar.png)||
 
 ### Statistics Table Meath 2002
 No. | Pref | Votes | Percentage | nPr | Unique Votes | Percentage Used | Euc Mean | Euc Median | Euc Min | Euc Max
----------- | ---- | ----- | ---------- | ----------- | ------------ | --------------- | -------- | ---------- | ------- | -------:
+:---------- | ---- | ----- | ---------- | ----------- | ------------ | --------------- | -------- | ---------- | ------- | -------:
      0     |  1.0 |  3184 |     5.0    |      14     |      14      |      100.0      |    0.0   |     0.0    |   0.0   |   0.0  
      1     |  2.0 |  4250 |     6.6    |     182     |      165     |      90.66      |   3.24   |    3.47    |   0.0   |   8.14 
      2     |  3.0 | 21102 |    32.9    |     2184    |     1419     |      64.97      |   6.43   |    6.14    |   0.0   |  16.28 
@@ -26,10 +26,10 @@ No. | Pref | Votes | Percentage | nPr | Unique Votes | Percentage Used | Euc Mea
 Histogram Dublin North 2002 |  Pie Chart Transfers
 :-------------------------:|:-------------------------:
 ![Histogram Dublin North 2002](/images/DublinNorth2002hist.png) | ![Pie Dublin North 2002](/images/DublinNorth2002_pref_cast_pie.png)
-![Cast v Possible Dublin North 2002](/images/DublinNorth2002_pref_percent_bar.png)
+![Cast v Possible Dublin North 2002](/images/DublinNorth2002_pref_percent_bar.png)||
 
 ### Dublin West 2002
 Histogram Dublin West 2002 |  Pie Chart Transfers
 :-------------------------:|:-------------------------:
 ![Histogram Dublin West 2002](/images/DublinWest2002hist.png) | ![Pie Dublin West 2002](/images/DublinWest2002_pref_cast_pie.png)
-![Cast v Possible Dublin West 2002](/images/DublinWest2002_pref_percent_bar.png)
+![Cast v Possible Dublin West 2002](/images/DublinWest2002_pref_percent_bar.png)||
