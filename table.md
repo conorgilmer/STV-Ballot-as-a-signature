@@ -17,3 +17,15 @@ No. | Pref | Votes | Percentage | nPr | Unique Votes | Percentage Used | Euc Mea
     11     | 12.0 |  441  |     0.7    | 43589145600 |      440     |       0.0       |   25.04  |    25.1    |   7.89  |  44.17
     12     | 13.0 |  676  |     1.1    | 87178291200 |      671     |       0.0       |   27.43  |    27.57   |   9.76  |   48.6
     13     | 14.0 |  2490 |     3.9    | 87178291200 |     2484     |       0.0       |   30.42  |    30.27   |   12.5  |  51.25
+
+
+|               |          Grouping             ||         Grouping 2         ||  Not Grouped    |
+| First Header  | Second Header | Third Header   | Forth Header | Fifth Header | Sixth Header    |
+| ------------- | :-----------: | -------------: | :----------: | :----------: | --------------- |
+| Tall Cell     |          *Long Cell*          ||         *Long Long Cell*                    |||
+| ^^            |   **Bold**    | 1. first item  | *Italic*     | 3. third item | + first point  |\
+| ^^            |               | 1. second item |              | 1. forth item | + second point |
+
+| New section   |     More      |         Data   | ... - -- --- |||
+| And more      | With an escaped \|          || "Try 'quotes' in quotes "         |||
+[Compicated table]
