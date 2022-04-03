@@ -3,6 +3,7 @@
 
 form1
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=P(n,r) = \frac{n!}{(n-r)!}>
 
 form2
 $e^{i \pi} = -1$
