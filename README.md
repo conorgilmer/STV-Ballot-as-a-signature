@@ -45,7 +45,7 @@ nPr = P(n,r) = n!/(n-r)!
 - evaluate performance
 
 ### Simulated Election using Generated data
-- Run STV with generated data showing synthetic data alters election
+- Run STV with generated data showing synthetic data alters election. Modify **rcv.py** to use a fixed droop quota like in Irish Elections, to simulate election.
 
 ## Data Used from e-voting trial from 2002
 - [Meath2002.csv](/data/Meath2002.csv)
