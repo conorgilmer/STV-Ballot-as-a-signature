@@ -4,7 +4,9 @@ PR-STV Irregular voting patterns which could be used as a ballot as a signature 
 While the number of permutations of the completing a ballot for the all candidates is factorial(n) or
 n!
 The number of permutations(P) for r preferences cast, for an election with n candidates is
+
 nPr = P(n,r) = n!/(n-r)!
+
 ## Tasks
 ### Data Gathering and Generation
 - plot irish political parites on the Political Compass ([politicalcompass.org](https://politicalcompass.org/ireland2020))
