@@ -11,8 +11,8 @@ Data from 2002, when eVoting trial was conducted.
 |Fianna Fail | FF    | 2.5  | 2.4   |
 |Fine Gael | FG    | 3.5  | 2.5   |
 |Progresive Democrats | PD    | 4    | 3     |
-Plot of Irish Political Compass.
-![Irish parties on the political compass](/images/PCplot.png)
+|Plot of Irish Political Compass.||||
+|![Irish parties on the political compass](/images/PCplot.png)||||
 
 ### Statistics Table Meath 2002
 
