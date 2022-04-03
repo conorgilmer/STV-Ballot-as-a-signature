@@ -37,11 +37,15 @@ nPr = P(n,r) = n!/(n-r)!
   -concatenate(merge) regular and irregular csv files
   -remove duplicates keeping sequence classified as regular
   -writes to merged csv file
+
 ###Machine Learning
 - split dataset into test and train
 - test machine learning algorithms on dataset measure performance
 - tune model
 - evaluate performance
+
+###Simulated Election using Generated data
+- Run STV with generated data showing synthetic data alters election
 
 ## Data Used from e-voting trial from 2002
 - [Meath2002.csv](/data/Meath2002.csv)
@@ -63,11 +67,10 @@ Data from 2002, when eVoting trial was conducted
 | FG    | 3.5  | 2.5   |
 | PD    | 4    | 3     |
 
-### Plot of transfers of a regular vote
-![Plot of transfers of a regular vote](/images/RegularVoteTransferplot.png)
-
-### Plot of transfers of an irregular vote
-![Plot of transfers of a irregular vote](/images/IrregularVoteTransfersplot.png)
+### Plot of transfers of a regular and irregular vote
+Regular Vote Transfer Plot | Irregular Vote Transfer Plot 
+:-------------------------:|:-------------------------:
+![Plot of transfers of a regular vote](/images/RegularVoteTransferplot.png) | ![Plot of transfers of a irregular vote](/images/IrregularVoteTransfersplot.png)
 
 ## Technology and software used
 - python 3.8 - [python.org](https://python.org)
