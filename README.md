@@ -38,14 +38,14 @@ nPr = P(n,r) = n!/(n-r)!
   -remove duplicates keeping sequence classified as regular
   -writes to merged csv file
 
-### Machine Learning
+### Machine Learning (**[MLElectionData](/python/MLElectionData.ipynb) **)
 - split dataset into test and train
 - test machine learning algorithms on dataset measure performance
 - tune model
 - evaluate performance
 
 ### Simulated Election using Generated data
-- Run STV with generated data showing synthetic data alters election. Modify **rcv.py** to use a fixed droop quota like in Irish Elections, to simulate election.
+- Run STV with generated data showing synthetic data alters election. Modify **[rcv.py](/python/rcv.py)** to use a fixed droop quota like in Irish Elections, to simulate election.
 
 ## Data Used from e-voting trial from 2002
 - [Meath2002.csv](/data/Meath2002.csv)
