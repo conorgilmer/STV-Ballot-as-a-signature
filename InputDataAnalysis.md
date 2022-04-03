@@ -1,8 +1,10 @@
-### Histogram Meath 2002
-![Histogram Meath 2002](/images/Meath2002hist.png)
+### Meath 2002
+Histogram Meath 2002 |  Pie Chart Transfers
+:-------------------------:|:-------------------------:
+![Histogram Meath 2002](/images/Meath2002hist.png) | ![Pie Meath 2002](/images/Meath2002_pref_cast_pie.png)
+![Cast v Possible Meath 2002](/images/Meath2002_pref_percent_bar.png)
 
 ### Statistics Table Meath 2002
-
 No. | Pref | Votes | Percentage | nPr | Unique Votes | Percentage Used | Euc Mean | Euc Median | Euc Min | Euc Max
 ---------- | ---- | ----- | ---------- | ----------- | ------------ | --------------- | -------- | ---------- | ------- | -------:
      0     |  1.0 |  3184 |     5.0    |      14     |      14      |      100.0      |    0.0   |     0.0    |   0.0   |   0.0  
@@ -20,14 +22,14 @@ No. | Pref | Votes | Percentage | nPr | Unique Votes | Percentage Used | Euc Mea
     12     | 13.0 |  676  |     1.1    | 87178291200 |      671     |       0.0       |   27.43  |    27.57   |   9.76  |   48.6 
     13     | 14.0 |  2490 |     3.9    | 87178291200 |     2484     |       0.0       |   30.42  |    30.27   |   12.5  |  51.25 
 
-
-### Histogram Dublin North 2002
-![Histogram Dublin North 2002](/images/DublinNorth2002hist.png)
+### Dublin North 2002
+Histogram Dublin North 2002 |  Pie Chart Transfers
+:-------------------------:|:-------------------------:
+![Histogram Dublin North 2002](/images/DublinNorth2002hist.png) | ![Pie Dublin North 2002](/images/DublinNorth2002_pref_cast_pie.png)
+![Cast v Possible Dublin North 2002](/images/DublinNorth2002_pref_percent_bar.png)
 
 ### Dublin West 2002
-
 Histogram Dublin West 2002 |  Pie Chart Transfers
 :-------------------------:|:-------------------------:
 ![Histogram Dublin West 2002](/images/DublinWest2002hist.png) | ![Pie Dublin West 2002](/images/DublinWest2002_pref_cast_pie.png)
- 
 ![Cast v Possible Dublin West 2002](/images/DublinWest2002_pref_percent_bar.png)
