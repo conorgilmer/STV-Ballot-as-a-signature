@@ -1,4 +1,15 @@
 
+## formulaes
+
+form1
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+form2
+$e^{i \pi} = -1$
+
+form 3
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
 ## Data from Political Compass [pc.csv](/data/pc.csv)
 Data from 2002, when eVoting trial was conducted.
 | Parties as of 2002  |Initials| X    | Y     |
