@@ -24,7 +24,10 @@ No. | Pref | Votes | Percentage | nPr | Unique Votes | Percentage Used | Euc Mea
 ### Histogram Dublin North 2002
 ![Histogram Dublin North 2002](/images/DublinNorth2002hist.png)
 
-### Histogram Dublin West 2002
-![Histogram Dublin West 2002](/images/DublinWest2002hist.png)
+### Dublin West 2002
 
-
+Histogram Dublin West 2002 |  Pie Chart Transfers
+:-------------------------:|:-------------------------:
+![Histogram Dublin West 2002](/images/DublinWest2002hist.png) | ![Pie Dublin West 2002](/images/DublinWest2002_pref_cast_pie.png)
+ 
+![Cast v Possible Dublin West 2002](/images/DublinWest2002_pref_percent_bar.png)
