@@ -1,16 +1,16 @@
 
 ## Data from Political Compass [pc.csv](/data/pc.csv)
 Data from 2002, when eVoting trial was conducted.
-| Party | X    | Y     |
-|-------|-----:|------:|
-| SP    | -7   | -2.5  |
-| SF    | -4.5 | 1     |
-| GP    | -1   | -2    |
-| NP    | 0    | 0     |
-| LB    | 1.5  | -0.5  |
-| FF    | 2.5  | 2.4   |
-| FG    | 3.5  | 2.5   |
-| PD    | 4    | 3     |
+| Party  |Initials| X    | Y     |
+|:-------|:-----:|-----:|------:|
+|Socialist Party | SP    | -7   | -2.5  |
+|Sinn Fein | SF    | -4.5 | 1     |
+|Green Party| GP    | -1   | -2    |
+|Non-Party | NP    | 0    | 0     |
+|Labour | LB    | 1.5  | -0.5  |
+|Fianna Fail | FF    | 2.5  | 2.4   |
+|Fine Gael | FG    | 3.5  | 2.5   |
+|Progresive Democrats | PD    | 4    | 3     |
 Plot of Irish Political Compass.
 ![Irish parties on the political compass](/images/PCplot.png)
 
