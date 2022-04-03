@@ -2,9 +2,11 @@
 ## formulaes
 
 form1
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-<img src="https://render.githubusercontent.com/render/math?math=P(n,r) = \frac{n!}{(n-r)!}>
+#<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math=P(n,r)=\frac{n!}{(n-r)!}>
 
+form a1
+<img src="https://latex.codecogs.com/pdf.image?\dpi{110}P(n,r)&space;=&space;\frac{n!}{(n-r)!}" title="https://latex.codecogs.com/pdf.image?\dpi{110}P(n,r) = \frac{n!}{(n-r)!}" />
 form2
 $e^{i \pi} = -1$
 
