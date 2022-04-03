@@ -12,10 +12,12 @@ nPr = P(n,r) = n!/(n-r)!
   - mode
   - median
   - mean
-  - generate histograms
   - calculate duplicates (remove duplicates)
   - calculate number of unique votes for each vote sequence
   - caclulate possible permutations for each pref nonPr and % used
+  - generate histograms number of votes cast for each preference
+  - generate pie breakdown of how many preferences voters cast
+  - generate bar chart ratio of votes used to possible votes cast for each preference
   - calculate "votes" euclidean distance and average euclidean distance for each transfer
   - classify as "regular" write to regular csv file
 - **[RandGen-nPr.ipynb](/python/RandGen-nPr.ipynb)** 
