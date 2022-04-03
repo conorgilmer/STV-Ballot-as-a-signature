@@ -38,7 +38,7 @@ nPr = P(n,r) = n!/(n-r)!
   -remove duplicates keeping sequence classified as regular
   -writes to merged csv file
 
-### Machine Learning (**[MLElectionData](/python/MLElectionData.ipynb) **)
+### Machine Learning ([MLElectionData](/python/MLElectionData.ipynb))
 - split dataset into test and train
 - test machine learning algorithms on dataset measure performance
 - tune model
