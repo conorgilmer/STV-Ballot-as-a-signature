@@ -3,6 +3,9 @@
 
 # # Plot Vote Transfers on the Political Compass
 
+# In[1]:
+
+
 #draw a graph of the political compass, tracking a PR-STV vote
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -39,7 +42,7 @@ ax.grid(which='both', color='grey', linewidth=1, linestyle='-', alpha=0.2)
 fig.suptitle('STV Regular Vote Transfer plot', fontsize=16)
 
 #download compass data positioning irish political parties on the political spectrum
-indata='../../data/pc.csv'
+indata='../data/pc.csv'
 
 #set column names
 col_names = ['party', 'xaxis', 'yaxis']
@@ -61,7 +64,7 @@ for p in points:
 #Irregular Vote
 #dVote= ['NP', 'SP', 'LB', 'SF', 'FF', 'GP', 'FG']
 #Regular Vote
-dVote =['FG','FG','FF', 'GP']
+dVote =['FG','FF','LB', 'GP', 'SF']
 
 #populate 3 lists with text, x co-ord and y co-ord
 dfi = df.party.tolist()
@@ -125,7 +128,7 @@ plt.scatter(xi,yi)
 
 
 # Save the political compass plot
-plt.savefig('../../images/RegularVoteTransferplot.png')
+plt.savefig('../images/RegularVoteTransferplot.png')
 
 #show political compass
 plt.show()
