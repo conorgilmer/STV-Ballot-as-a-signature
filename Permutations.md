@@ -24,11 +24,11 @@ Pref(r)	| n=9	 | n=12	     | n = 14
 13	|        |           | 87178291200
 14	|        |	     | 87178291200
 
-## Generate All Permutations (nPr) for Constituencies
+## Generate All Permutations (nPr) for Constituencies win r=7
 Running **[GenAll-nPr.py](/python/py/GenAll-nPr.py)**
 
 Constituency | Candidates | Preferences(r) |    nPr   | Filesize
--------------|------------| -------------- | -------- | ----------
+-------------|:----------:| :------------: | -------: | ---------:
 Dublin West  |      9     |      7         |   181440 |   6602200
 Dublin North |     12     |      7         |  3991680 | 162547817
 Meath        |     14     |      7         | 17297280 | 749969267
