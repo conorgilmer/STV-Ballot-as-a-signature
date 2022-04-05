@@ -16,5 +16,11 @@ Dublin North |     12     |      7         |  3991680 | 162547817
 Meath        |     14     |      7         | 17297280 | 749969267
 
 
-#political compass
-[pc.csv]!(/data/pc.csv)
+### Dublin West (nPr = 9P7)
+[Dublin West Run]!(/images/RunGenAll-9P7.png)
+
+### Dublin North (nPr = 12P7)
+[Dublin North Run]!(/images/RunGenAll-12P7.png)
+
+### Dublin West (nPr = 9P7)
+[Meath Run]!(/images/RunGenAll-14P7.png)
