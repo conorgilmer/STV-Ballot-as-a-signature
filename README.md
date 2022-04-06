@@ -24,7 +24,13 @@ nPr = P(n,r) = n!/(n-r)!
   - generate pie breakdown of how many preferences voters cast
   - generate bar chart ratio of votes used to possible votes cast for each preference
   - calculate "votes" euclidean distance and average euclidean distance for each transfer
-  - classify as "regular" write to regular csv file
+  - classify as "regular" write to *regular* csv file
+- **[GenAll-nPr.py](/python/py/GenAll-nPr.py)** 
+  - generate all permutations nPr (r=7)
+- **[GenVoteDataAnalysis.ipynb](/python/GenVoteDataAnalysis.ipynb)** - analyse generated data
+  - calculate "votes" euclidean distance and average euclidean distance for each transfer
+  - select rows with euclidean distance greater than max of "Regular" votes
+  - classify as "Irregular" write to *irregular* csv file
 - **[RandGen-nPr.ipynb](/python/RandGen-nPr.ipynb)** 
   - generate random permutations nPr
 - **[RandGen-nPr-O.ipynb](/python/RandGen-nPr-O.ipynb)** 
@@ -34,9 +40,9 @@ nPr = P(n,r) = n!/(n-r)!
 - **[RandGen-nPr-range-of-r.ipynb](/python/RandGen-nPr-range-of-r.ipynb)** 
   - generate random permutations for range r values
 - **[concatBatch.py](/python/concatBatch.py)**
-  -concatenate(merge) regular and irregular csv files
-  -remove duplicates keeping sequence classified as regular
-  -writes to merged csv file
+  - concatenate(merge) *regular* and *irregular* csv files
+  - remove duplicates keeping sequence classified as regular
+  - writes to merged csv file
 
 ### Machine Learning ([MLElectionData](/python/MLElectionData.ipynb))
 - split dataset into test and train
