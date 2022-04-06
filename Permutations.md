@@ -40,8 +40,9 @@ Meath        |     14     |      7         | 17297280 | 749969267
 ### Dublin North (nPr = 12P7)
 ![Dublin North Run](/images/RunGenAll-12P7.png)
 
-### Dublin West (nPr = 9P7)
+### Meath (nPr = 14P7)
 ![Meath Run](/images/RunGenAll-14P7.png)
+
 ## Data Generation
 To train the data set you need a dataset of "irregular" permutation, to do this the input actual election data was studied for each of the three consittuencies. A overa factorial of 10 is a massive number, it was decided to use nPr using around 7 preference cast while still a large number is still a fraction of the valid input data.
 
