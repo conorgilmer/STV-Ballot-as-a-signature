@@ -57,5 +57,8 @@ all |             | 10335 | DublinWest2002Reg.csv
  7  | >47.3       | 1280  | DublinWest2002_9P7_Allgenerated_gen_irreg.cs
  8  | >50.05      | 140   | DublinWest2002_9P8_Allgenerated_gen_irreg.cs
 all |             | 11819 | DublinWest2002_merged.csv
-~                                                           
 
+### Balance of Merged Data Set
+Roughly only 1500 of the votes which were generated fulfilled the criteria of irregular, adding these to the 10000 regular vote permutaitons cast gives quite an unbalance dataset
+
+![Data Set Balance](/images/DublinWest2002_merged_dataset_balance_hist.png)
