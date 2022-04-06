@@ -5,7 +5,7 @@ The number of permutations(P) for r preferences cast, for an election with n can
 
 nPr = P(n,r) = n!/(n-r)!
 
-## All Permutats nPr 
+### Number of all possible Permutations nPr, for constituenceis with 9, 12, or 14 candidates(r) 
 
 Pref(r)	| n=9	 | n=12	     | n = 14
 ------: |------: |---------: |-----------:
