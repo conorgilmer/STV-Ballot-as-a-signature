@@ -81,9 +81,17 @@ Regular Vote Transfer Plot | Irregular Vote Transfer Plot.
 ![Plot of transfers of a regular vote](/images/RegularVoteTransferplot.png) | ![Plot of transfers of a irregular vote](/images/IrregularVoteTransfersplot.png)
 
 ## Technology and software used
-- python 3.8 - [python.org](https://python.org)
+- python 3.8.5 - [python.org](https://python.org)
 - Anaconda 1.10 with Juypter Notebook 6.1.4 [Anaconda Individual Edition](https://www.anaconda.com/products/individual)
 - macOS Sierra 10.12.6
 - Vim 7.4 (MacVim) [www.vim.org](https://vim.org)
 - Thonny 3.3.1 (with Python 3.7.9) [www.thonny.org](https://thonny.org)
 - Atom Editor - [atom.io](https://atom.io/)
+
+## Python Libraries
+- matplotlib: 3.3.2
+- numpy: 1.19.5
+- pandas: 1.1.3
+- scipy: 1.5.2
+- sklearn: 0.23.2
+- seaborn: 0.11.0
