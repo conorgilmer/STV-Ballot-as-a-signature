@@ -10,6 +10,8 @@ nPr = P(n,r) = n!/(n-r)!
 ## Tasks
 ### Data Gathering and Generation
 - plot irish political parites on the Political Compass ([politicalcompass.org](https://politicalcompass.org/ireland2020))
+- **[PoliticalCompassParties.ipynb](/python/PoliticalCompassParties.ipynb)** - plot parties on political compass axes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/conorgilmer/STV-Ballot-as-a-signature/blob/master/python/PoliticalCompassParties.ipynb)
+
 - **[PlotRegularVoteTransfers.ipynb](/python/PlotRegularVoteTransfers.ipynb)** - plot regular voting pattern (between similar ideologies)§
 - **[PlotIrregularVoteTransfers.ipynb](/python/PlotIrregularVoteTransfers.ipynb)** - plot irregular voting pattern.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/conorgilmer/STV-Ballot-as-a-signature/blob/master/python/PlotRegularVoteTransfers.ipynb)
 
