@@ -89,6 +89,7 @@ Regular Vote Transfer Plot | Irregular Vote Transfer Plot.
 - Vim 7.4 (MacVim) [www.vim.org](https://vim.org)
 - Thonny 3.3.1 (with Python 3.7.9) [www.thonny.org](https://thonny.org)
 - Atom Editor - [atom.io](https://atom.io/)
+- Visual Paradigm Online Editor [online.visual-paradigm.com/](https://online.visual-paradigm.com/)
 
 ## Python Libraries
 - matplotlib: 3.3.2
