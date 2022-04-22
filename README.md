@@ -5,7 +5,9 @@ While the number of permutations of the completing a ballot for the all candidat
 n!
 The number of permutations(P) for r preferences cast, for an election with n candidates is
 
-nPr = P(n,r) = n!/(n-r)!
+nPr = P(n,r) = n!/(n-r)!    
+
+Calculate number of permutations **[PermutationsCalc.py](/python/py/PermutationsCalc.py)**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/conorgilmer/STV-Ballot-as-a-signature/blob/master/python/PermutationsCalc.ipynb)
 
 ## Tasks
 ### Data Gathering and Generation
@@ -89,7 +91,7 @@ Regular Vote Transfer Plot | Irregular Vote Transfer Plot.
 - Vim 7.4 (MacVim) [www.vim.org](https://vim.org)
 - Thonny 3.3.1 (with Python 3.7.9) [www.thonny.org](https://thonny.org)
 - Atom Editor - [atom.io](https://atom.io/)
-- Visual Paradigm Online Editor [online.visual-paradigm.com/](https://online.visual-paradigm.com/)
+- Visual Paradigm Online Editor - [online.visual-paradigm.com](https://online.visual-paradigm.com/)
 
 ## Python Libraries
 - matplotlib: 3.3.2
